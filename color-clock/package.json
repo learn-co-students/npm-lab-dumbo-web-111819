@@ -1,0 +1,25 @@
+{
+  "name": "npm-lab-dumbo-web-111819",
+  "version": "1.0.0",
+  "description": "lovin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mqshaikh8/npm-lab-dumbo-web-111819.git"
+  },
+  "keywords": [
+    "awsd"
+  ],
+  "author": "qasim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mqshaikh8/npm-lab-dumbo-web-111819/issues"
+  },
+  "homepage": "https://github.com/mqshaikh8/npm-lab-dumbo-web-111819#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}

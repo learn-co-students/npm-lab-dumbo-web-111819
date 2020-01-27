@@ -1,0 +1,11 @@
+{
+  "name": "sup",
+  "version": "1.0.0",
+  "description": "Lovin' it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello World!\""
+  },
+  "author": "qasim",
+  "license": "ISC"
+}
